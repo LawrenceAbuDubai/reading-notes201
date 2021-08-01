@@ -9,5 +9,5 @@ https://github.com/LawrenceAbuDubai
 
 Name | Link
 ------------ | -------------
-
+lab1 | [go to](https://lawrenceabudubai.github.io/reading-notes201/)
 
