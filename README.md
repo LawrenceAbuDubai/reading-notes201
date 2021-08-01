@@ -9,5 +9,7 @@ https://github.com/LawrenceAbuDubai
 
 Name | Link
 ------------ | -------------
-lab1 | [go to](https://lawrenceabudubai.github.io/reading-notes201/)
+class-01 | [visit😀](https://lawrenceabudubai.github.io/reading-notes201/class-01)
+
+
 
