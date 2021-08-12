@@ -18,6 +18,7 @@ class-06 | [visit](https://lawrenceabudubai.github.io/reading-notes201/class-06)
 class-07 | [visit](https://lawrenceabudubai.github.io/reading-notes201/class-07)
 class-08 | [visit](https://lawrenceabudubai.github.io/reading-notes201/class-08)
 class-09 | [visit](https://lawrenceabudubai.github.io/reading-notes201/class-09)
+class-10 | [visit](https://lawrenceabudubai.github.io/reading-notes201/class-10)
 
 
 
